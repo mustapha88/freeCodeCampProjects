@@ -1,0 +1,18 @@
+.container 
+  margin-top: 15px 
+  background-color: grey
+  text-align: center
+  
+  textarea
+    width: 400px
+    resize: vertical
+    height: 90%
+    background-color:grey
+    margin-left: 14px
+    border: 4px solid blue
+   
+  h3
+    color: purple
+    text-decoration: inline
+    margin-left: 94px
+    
