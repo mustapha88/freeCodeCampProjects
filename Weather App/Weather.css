@@ -1,0 +1,56 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-image: url('http://s3.favim.com/orig/45/architecture-beautiful-buildings-city-cool-Favim.com-402582.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 100%;
+}
+h2 {
+  display: inline;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: red;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+#temp{
+  margin-left: 60px;
+}
+
+.link{
+  background: none;
+  border: none;
+}
+
+#now {
+  margin-bottom: 9px;
+}
+
+
+
+.circle {
+  width: 200px;
+  height: 60px;
+  border-radius: 80%;
+  background-color: grey;
+  margin-top: 20px;
+  margin-left: 40px;
+  float: left;
+  
+line-height:60px;
+text-align:center;
+
+}
