@@ -1,0 +1,11 @@
+body {
+  background-color: #A8A8A8;
+  font-family: Monospace;
+  text-align: center;
+  font-size: 15px;
+}
+
+#wikiA {
+  margin: auto;
+  width: 350px;
+}
