@@ -1,0 +1,81 @@
+body {
+  background-color: transparent;
+}
+h1 {
+  margin: 3px;
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+nav {
+  width: 400px;
+  background-color: black;
+  border-color: purple;
+  height: 100px;
+  padding: 10px;
+}
+form {
+  width: 250px;
+  height: 2px;
+  padding: 0px;
+}
+#btn1 {
+  width: 70px;
+  padding: 10px 15px;
+  margin: 45px;
+  float: right;
+  margin-right: 9px;
+}
+#btn2 {
+  padding: 10px 15px;
+  float: right;
+  margin-left: 19px;
+  width: 70px;
+  margin: 45px;
+}
+#btn3 {
+  width: 60px;
+  padding: 10px 15px;
+  margin: 45px;
+  float: right;
+  margin-right: -189px;
+}
+
+.container {
+  background: transparent;
+  width: 500px;
+  height: auto;
+  margin: auto;
+}
+.users {
+  margin: 1px;
+  height: 100px;
+  border: solid 5px purple;
+}
+.online-users {
+  background-color: green;
+}
+.offline-users {
+  background-color: orange;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+}
+.channel-name {
+  text-decoration: none;
+  font-weigth: bold;
+  text-align: center;
+}
+.status {
+  color: dark;
+  text-align: left;
+  font-size: 14px;
+}
+.channel-name {
+  font-weight: bold;
+  color: yellow;
+  font-family: Verdana;
+}
+.hidden {
+  display: hidden;
+}
